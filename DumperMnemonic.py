@@ -2,7 +2,7 @@
 # // pip install requests colorthon cryptofuzz requests-random-user-agent//
 # // Import Libraries //
 import random, requests, time, os, sys
-import requests_random_user_agent
+import real_useragent
 from cryptofuzz import Ethereum, Dogecoin, Convertor
 from colorthon import Colors
 
