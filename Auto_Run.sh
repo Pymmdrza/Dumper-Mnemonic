@@ -13,7 +13,7 @@ echo "Installing required packages using pip3..."
 pip3 install requests --break-system-packages
 pip3 install colorthon --break-system-packages
 pip3 install cryptofuzz --break-system-packages
-pip3 install requests-random-user-agent --break-system-packages
+pip3 install real-useragent --break-system-packages
 
 PYTHON_SCRIPT_URL=https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/mainx/DumperMnemonic.py
 DOWNLOAD_PATH=DumperMnemonic.py
